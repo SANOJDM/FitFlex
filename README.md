@@ -85,7 +85,10 @@ FitFlex/
 
 ## 👩‍💻 Team
 - **Sai Naveen K** – Team Lead  
-- **Sanoj D M**  
+- **Sanoj D M**
+- **Sanjith S**
+- **Mohith R**
+- **Akash S**  
 
 ---
 
